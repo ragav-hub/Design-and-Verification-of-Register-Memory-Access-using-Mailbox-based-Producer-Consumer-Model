@@ -95,7 +95,7 @@ module register_memory #(parameter WIDTH = 8, DEPTH = 8) ();
 endmodule
 ```
 ### Testbench File
-```
+```systemverilog
 module register_memory_tb;
 
     parameter WIDTH = 8;
