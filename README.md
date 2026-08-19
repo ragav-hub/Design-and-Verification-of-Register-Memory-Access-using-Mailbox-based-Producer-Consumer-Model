@@ -9,7 +9,7 @@ To design and verify a **Register Memory Access system** using a **mailbox-based
 
 ## Apparatus Required  
 - Computer with **Windows/Linux OS**  
-- **EDA Playground** (SystemVerilog environment) or **ModelSim 2020.1**  
+- **EDA Playground** (SystemVerilog environment) or **Synopsys VCS**  
 - Internet browser (for EDA Playground execution)  
 
 ---
